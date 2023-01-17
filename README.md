@@ -11,7 +11,7 @@ in courses centered around application of numerical methods with a chemical engi
 context. This content was originally developed for the junior level, Chemical
 Engineering Analysis course at the University of Connecticut through funding provided by a Mini Grant from the CACHE Organization.
 
-This original course made use of Dorfman and Daotidis's "Numerical Methods with Chemical Engineering Applications" as a primary textbook. A list of the chapters of Dorfman and Daoutidis that correspond to each tutorial is provided below. We should, however, note that the enclosed material was designed to be used in a stand-alone fashion and may be readily integrated into other courses.
+This original course made use of Dorfman and Daoutidis's "Numerical Methods with Chemical Engineering Applications" as a primary textbook. A list of the chapters of Dorfman and Daoutidis that correspond to each tutorial is provided below. We should, however, note that the enclosed material was designed to be used in a stand-alone fashion and may be readily integrated into other courses.
 
 - Tutorial \#0 (Introduction to Matlab/Julia) - N/A
 - Tutorial \#1 (Linear Algebraic Systems) - Chapter 2
